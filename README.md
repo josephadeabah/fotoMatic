@@ -1,1 +1,1 @@
-# fotoMatic
+# fotomatic
